@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wiktor
 - 👀 I’m interested in video games, music and electronics
-- 🌱 I’m currently learning Java
 
 <!---
 wKotela/wKotela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
